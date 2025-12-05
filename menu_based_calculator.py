@@ -1,0 +1,11 @@
+def show_menu():
+    print("=" * 30)
+    print("Basic Calculator")
+    print("=" * 40)
+    print("press 1.add")
+    print("press 2.subtract")
+    print("press 3.multiply")
+    print("press 4.division")
+    print("press 5.exit")
+    print("=" * 30)
+show_menu()
